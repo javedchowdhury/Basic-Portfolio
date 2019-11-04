@@ -64,7 +64,6 @@ header {
     display: block;
     font-size: .875rem;
     font-family: zandes-bold,Helvetica,Arial,sans-serif;
-    text-transform: uppercase;
     color: #2c2d37;
 }
 
@@ -85,7 +84,8 @@ body{
 header{
     background-color: white;
 }
-/* footer{
-    background-color: gray;
-    text-align: center;
-} */
+
+#portfolio-img{
+    height: 200px;
+    width: 200px;
+}
