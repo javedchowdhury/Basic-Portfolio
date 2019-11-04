@@ -23,6 +23,7 @@ footer{
     margin-right: -50%;
     transform: translate(-50%, -50%) ;
     margin: 20px;
+    margin-top: 20px;
 } 
 
 header {
@@ -85,7 +86,15 @@ header{
     background-color: white;
 }
 
+img{
+    float: left;
+}
+
 #portfolio-img{
     height: 200px;
     width: 200px;
 }
+#aboutmetext{
+    text-align: center;
+}
+
